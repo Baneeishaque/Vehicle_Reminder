@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="project.mahdin.navas.vehicle_reminder.Overview" >
+
+    <item
+        android:id="@+id/menu_add_item"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="+"/>
+
+</menu>
